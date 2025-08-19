@@ -4,5 +4,7 @@
     "CD_001_M7__Receive__40": "Congelar",
     "CD_001_M7__Set\/reset_card_PIN": "Contactar con soporte técnico",
     "CD_001_M7__Set\/reset_card_PIN__cancel": "Cancelar tarjeta",
-    "CD_001_M7__Set\/reset_card_PIN__add": "Añadir tarjeta a la página de inicio"
+    "CD_001_M7__Set\/reset_card_PIN__add": "Añadir tarjeta a la página de inicio",
+    "CD_001_M7__Button": "Agregar a Apple Wallet ",
+    "CD_001_M7__Button__98": "Solicitar una tarjeta"
 }

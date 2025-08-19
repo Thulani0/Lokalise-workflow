@@ -4,5 +4,7 @@
     "CD_001_M7__Receive__40": "Freeze",
     "CD_001_M7__Set\/reset_card_PIN": "Contact support",
     "CD_001_M7__Set\/reset_card_PIN__cancel": "Cancel card",
-    "CD_001_M7__Set\/reset_card_PIN__add": "Add card to home"
+    "CD_001_M7__Set\/reset_card_PIN__add": "Add card to home",
+    "CD_001_M7__Button": "Add to Apple Wallet ",
+    "CD_001_M7__Button__98": "Order a card"
 }
