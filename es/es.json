@@ -7,5 +7,7 @@
     "CD_001_M7__Set\/reset_card_PIN__add": "Añadir tarjeta a la página de inicio",
     "CD_001_M7__Button": "Agregar a Apple Wallet ",
     "CD_001_M7__Button__98": "Solicitar una tarjeta",
-    "CD_001_M7__K_Card": "Tarjeta K *8223"
+    "CD_001_M7__K_Card_*8223": "Tarjeta K *8223",
+    "CD_001_M7__K_Card": "Tarjeta K *8223",
+    "CD_001_M7__Cards": "Tarjetas"
 }
