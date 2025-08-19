@@ -12,5 +12,6 @@
     "setname-popup__Button": "Close",
     "setname-popup__Button__4": "Confirm",
     "setname-popup__Unlock_your_special_card": "Edit card name",
-    "setname-popup__Not_all_cards_are_public._Enter_your_code_to_get_your_special_card": "Set a custom name for this card to help you recognize it easily. "
+    "setname-popup__Not_all_cards_are_public._Enter_your_code_to_get_your_special_card": "Set a custom name for this card to help you recognize it easily. ",
+    "success-alert__Title": "Your card name is updated."
 }
