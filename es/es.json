@@ -11,5 +11,6 @@
     "CD_001_M7__Cards": "Tarjetas",
     "setname-popup__Button": "Cerca",
     "setname-popup__Button__4": "Confirmar",
-    "setname-popup__Unlock_your_special_card": "Editar el nombre de la tarjeta"
+    "setname-popup__Unlock_your_special_card": "Editar el nombre de la tarjeta",
+    "setname-popup__Not_all_cards_are_public._Enter_your_code_to_get_your_special_card": "Establezca un nombre personalizado para esta tarjeta para ayudarle a reconocerla fácilmente. "
 }
