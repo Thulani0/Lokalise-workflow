@@ -9,9 +9,10 @@
     "CD_001_M7__Button__98": "Solicitar una tarjeta",
     "CD_001_M7__K_Card": "Tarjeta K *8223",
     "CD_001_M7__Cards": "Tarjetas",
-    "setname-popup__Button": "Cerca",
+    "setname-popup__Button": "Cerrar",
     "setname-popup__Button__4": "Confirmar",
-    "setname-popup__Unlock_your_special_card": "Editar el nombre de la tarjeta",
-    "setname-popup__Not_all_cards_are_public._Enter_your_code_to_get_your_special_card": "Establezca un nombre personalizado para esta tarjeta para ayudarle a reconocerla fácilmente. ",
-    "success-alert__Title": "El nombre de tu tarjeta está actualizado."
+    "setname-popup__Unlock_your_special_card_edit": "Editar nombre de la tarjeta",
+    "setname-popup__Not_all_cards_are_public._Enter_your_code_to_get_your_special_card": "Asigna un nombre personalizado a esta tarjeta para que puedas reconocerla fácilmente. ",
+    "success-alert__Title": "El nombre de tu tarjeta se ha actualizado.",
+    "M8.1__Set\/reset_card_PIN": "Establecer nombre de la tarjeta"
 }
